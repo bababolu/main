@@ -1,1 +1,1 @@
-boby j
+const main="bobyby"
